@@ -13,3 +13,4 @@ File Structure
 index.html: Main HTML file containing the structure of the website.
 styles.css: CSS file containing styles for the website layout and elements.
 app.js: JavaScript file containing code for dynamic functionality and animations.
+![blossoms](https://github.com/diptanil98/Blossoms/assets/160762439/d5d8c4a9-0dc2-4252-b4cc-909ce74baa2a)
